@@ -28,5 +28,5 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 # Add fingerprint from Stock ROM build.prop
 PRODUCT_BUILD_PROP_OVERRIDES += \
     # These lines are from my device. You MUST Replace yours.
-    BUILD_FINGERPRINT="MLS/iQM960/iQM960:7.0/NRD90M/1519987307:user/release-keys" \
-    PRIVATE_BUILD_DESC="full_tek6735_36_a_n-user 7.0 NRD90M 1699862841 release-keys"
+    BUILD_FINGERPRINT="MLS/iQM960/iQM960:7.0/NRD90M/1519987307:user/release-keys"
+    #PRIVATE_BUILD_DESC="full_tek6735_36_a_n-user 7.0 NRD90M 1699862841 release-keys"
