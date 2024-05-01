@@ -44,7 +44,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/class/android_usb/android0/f_mass_storag
 TW_MAX_BRIGHTNESS := 255
 TW_DEFAULT_BRIGHTNESS := 80                   # Set custom brightness, low is better
 
-TW_INCLUDE_NTFS_3G := true                    # Include NTFS Filesystem Support
+TW_INCLUDE_NTFS_3G := false                   # Include NTFS Filesystem Support
 TW_INCLUDE_FUSE_EXFAT := true                 # Include Fuse-ExFAT Filesystem Support
 TWRP_INCLUDE_LOGCAT := true                   # Include LogCat Binary
 TW_INCLUDE_FB2PNG := true                     # Include Screenshot Support
